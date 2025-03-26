@@ -1,6 +1,6 @@
 # Expense Management Software
 ```
-Coded By: Rishabh Srivastava, Akash Yalla, Kanika Gupta
+Coded By: sai lokesh
 ```
 In these times of digitalization, all major organizations are aiming to automate most of their processes for better convenience. One important task for an organization involves the filing of expenses by employees for claiming reimbursements. These expenses also need to be approved / rejected by the appropriate authority.
 
